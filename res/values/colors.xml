@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_background">#333</color>
+    <color name="list_divider">#444</color>
+    <color name="list_item_title">#aaa</color>
+    <drawable name="list_selector">#880000</drawable>
+</resources>
