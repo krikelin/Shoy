@@ -26,32 +26,53 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int ic_action_user=0x7f020000;
-        public static final int ic_drawer=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int list_selector=0x7f020003;
+        public static final int ic_action_new=0x7f020000;
+        public static final int ic_action_search=0x7f020001;
+        public static final int ic_action_user=0x7f020002;
+        public static final int ic_drawer=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int ic_spotify=0x7f020005;
+        public static final int list_selector=0x7f020006;
     }
     public static final class id {
-        public static final int action_settings=0x7f090006;
-        public static final int counter=0x7f090005;
+        public static final int action_new=0x7f09000c;
         public static final int drawer_layout=0x7f090000;
         public static final int frame_container=0x7f090001;
         public static final int icon=0x7f090003;
+        public static final int layout_root=0x7f090005;
         public static final int list_slidermenu=0x7f090002;
         public static final int title=0x7f090004;
+        public static final int tvDescription=0x7f090008;
+        public static final int tvQuery=0x7f09000a;
+        public static final int tvTitle=0x7f090006;
+        public static final int uiDescription=0x7f090009;
+        public static final int uiQuery=0x7f09000b;
+        public static final int uiTitle=0x7f090007;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int drawer_list_item=0x7f030001;
+        public static final int fragment_playlist=0x7f030002;
+        public static final int playlist_view_error=0x7f030003;
+        public static final int prompt_create_playlist=0x7f030004;
+        public static final int resource_entry=0x7f030005;
     }
     public static final class menu {
         public static final int main=0x7f080000;
     }
     public static final class string {
+        public static final int action_new_playlist=0x7f060005;
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
         public static final int desc_list_item_icon=0x7f060003;
+        public static final int description=0x7f060008;
         public static final int hello_world=0x7f060002;
+        public static final int home=0x7f060006;
+        public static final int playlist_view_error=0x7f06000b;
+        public static final int playlists=0x7f060004;
+        public static final int query=0x7f060009;
+        public static final int test_query=0x7f06000a;
+        public static final int title=0x7f060007;
     }
     public static final class style {
         /** 

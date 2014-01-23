@@ -4,12 +4,18 @@ public class NavDrawerItem {
 	
 	private String title;
 	private int icon;
+	private int id;
 	private String count = "0";
 	// boolean to set visiblity of the counter
 	private boolean isCounterVisible = false;
 	
 	public NavDrawerItem(){}
-
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
 	public NavDrawerItem(String title, int icon){
 		this.title = title;
 		this.icon = icon;
